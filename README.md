@@ -10,7 +10,11 @@ Este script está diseñado para restaurar una máquina virtual en Proxmox desde
 
 1. **Configura el Script**: Modifica las variables en el script `restore_vm.sh` para que se ajusten a tu entorno.
 
-2. **Ejecuta el Script**:
+2. **Dale Permisos de Ejecución**: Asegúrate de que el script tiene permisos de ejecución en el host de Proxmox:
+   ```sh
+   chmod +x restore_vm.sh
+
+3. **Ejecuta el Script**:
    ```sh
    ./restore_vm.sh
 
