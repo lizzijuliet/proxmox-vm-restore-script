@@ -21,3 +21,7 @@ Este script está diseñado para restaurar una máquina virtual en Proxmox desde
 ### Requisitos
 Acceso a un servidor Proxmox.
 Comandos qm disponibles en el sistema.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
